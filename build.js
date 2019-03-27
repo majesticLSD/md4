@@ -47,7 +47,8 @@ let categoryLinks = [
     ],
     //banking
     [
-        ['https://paypal.com/signin', 'paypal']
+        ['https://paypal.com/signin', 'paypal'],
+        ['https://kreditkarten-banking.lbb.de/Amazon/cas/dispatch.do?bt_PRELON=do&ref=1200_AMAZON&service=COS', 'lbb']
     ],
     //code
     [
