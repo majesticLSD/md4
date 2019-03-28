@@ -126,6 +126,7 @@ header:hover {
     height: var(--hight-searchBox);
     width: 100%;
     margin-top: 0px;
+    margin-left: 10px;
     padding-left: 9ch;
     padding-right: 1ch;
     transition: color 500ms, border 300ms, box-shadow 500ms, border-radius 300ms;
