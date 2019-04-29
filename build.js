@@ -7,7 +7,7 @@ let categoryLinks = [
         ['https://netflix.com', 'netflix'],
         ['https://youtube.com/feed/subscriptions', 'youtube'],
         ['https://twitch.tv', 'twitch'],
-        ['https://blog.fefe.de/?css=lesefefe', 'fefe']
+        ['https://blog.fefe.de/?css=lesefefe.css', 'fefe']
     ],
     //social
     [
