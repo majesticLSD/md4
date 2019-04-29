@@ -11,6 +11,10 @@ a:hover {
     transition: color 150ms;
 }
 
+span {
+    color: var(--color-text-link);
+}
+
 .font_bold {
     font-weight: bold;
 }
