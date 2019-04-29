@@ -15,6 +15,10 @@ span {
     color: var(--color-text-link);
 }
 
+span:hover {
+    color: var(--color-text-content);
+}
+
 .font_bold {
     font-weight: bold;
 }
