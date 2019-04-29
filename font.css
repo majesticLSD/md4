@@ -15,7 +15,11 @@ span {
     color: var(--color-text-link);
 }
 
-span:hover {
+.normal-ref {
+    color: var(--color-text-link);
+}
+
+.normal-ref:hover {
     color: var(--color-text-content);
 }
 
