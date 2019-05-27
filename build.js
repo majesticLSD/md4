@@ -4,6 +4,7 @@ let categoryLinks = [
     //media
     [
         ['https://mail.google.com/mail/u/0/#inbox', 'mail'],
+        ['https://mail.majesticlsd.de', 'mailcow'],
         ['https://netflix.com', 'netflix'],
         ['https://youtube.com/feed/subscriptions', 'youtube'],
         ['https://twitch.tv', 'twitch'],
@@ -21,6 +22,7 @@ let categoryLinks = [
     ],
     //reddit
     [
+        ['https://reddit.com/', 'redit'],
         ['https://reddit.com/r/mac/', 'mac'],
         ['https://reddit.com/r/unixporn/', 'unixporn'],
         ['https://reddit.com/r/pewdiepie/', 'pewdiepie'],
